@@ -1,7 +1,5 @@
 {
-  "excludeScenes": [
-    "2d2f792f-a40c-49bb-a189-ed176a246e49"
-  ],
+  "excludeScenes": [],
   "orientation": {
     "landscapeLeft": true,
     "landscapeRight": true,
@@ -9,15 +7,15 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.helloworld",
-  "startScene": "bfa1594c-20ef-4bac-9379-9b8a71039c6a",
-  "title": "hello_world",
+  "startScene": "e876ea78-b0de-45d9-a864-ee6e2f0b4642",
+  "title": "BezierEditorCocosCreator",
   "webOrientation": "portrait",
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
   "mainCompressionType": "none",
   "mainIsRemote": false,
   "optimizeHotUpdate": false,
-  "md5Cache": false,
+  "md5Cache": true,
   "nativeMd5Cache": true,
   "encryptJs": true,
   "xxteaKey": "341597e0-e65b-48",

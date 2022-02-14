@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","capture"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/GraphicsEdit.fire",orientation:"portrait",jsList:["assets/Prefab/canvas2svg.cf0a0.js"],bundleVers:{internal:"d17e2",main:"c3cb0"}};
