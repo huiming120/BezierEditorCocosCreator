@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.8",
+  "name": "BezierEditorCocosCreator",
+  "uuid": "111d7a1f-8b7c-4f87-bfb8-8bb006ac2b1e",
+  "id": "40f27462-002e-4f41-bce5-c8f213555955",
+  "isNew": false
+}
